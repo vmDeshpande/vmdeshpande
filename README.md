@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
- <a href="http://youtube.com/UCzwrSy486rhwKyJKABbYz-g?sub_confirmation=1">
+ <a href="http://youtube.com/channel/UCzwrSy486rhwKyJKABbYz-g?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/XhPcTia5D0s?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
