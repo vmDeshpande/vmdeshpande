@@ -3,7 +3,7 @@
 
 **vmDeshpande/vmdeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some my details:
 
 - 🔭 I’m currently working on [fashioncity15](https://sites.google.com/view/fashioncity15)
 - 🌱 I’m currently learning coding.
