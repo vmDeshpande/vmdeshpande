@@ -7,6 +7,7 @@ Here are some my details:
 
 - 🌱 I’m currently learning coding.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [@_beastboy_king](https://instagram.com/_beastboy_king)
+- 📫 How to reach me: [@_Vedant_Deshpande](https://www.instagram.com/_vedant_deshpande_/)
 - 😄 Pronouns: he
+- My 1st Website: [beastboy king](http://beastboyking.freetzi.com/)
 
