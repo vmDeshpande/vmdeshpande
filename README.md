@@ -3,9 +3,9 @@
 
 Here are some my details:
 
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently working on a discord bot.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [@_Vedant_Deshpande](https://www.instagram.com/_vedant_deshpande_/)
+- 📫 How to reach me: [@_Vedant_Deshpande](https://www.instagram.com/feathered_beast_/)
 - 😄 Pronouns: he
 - [About Me.](http://vedantdeshpande.freetzi.com/)
 
