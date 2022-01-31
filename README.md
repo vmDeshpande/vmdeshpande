@@ -1,7 +1,10 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vmDeshpande/)
-[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="instagram" loading="lazy" width="121" height="28">](https://instagram.com/feathered_beast_)
-[<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTbHKs1_UcsnSw3oFRaqLtpE8Dn0ENpMhx-1iEoSnVXhqFjfGoAzhTmfFMa67hNf0_A&usqp=CAU" width="121" height="28">](https://discord.gg/W9K9H862d6)
+# Hi, i'm Vedant Deshpande! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img alt="Relative date badge" src="https://img.shields.io/badge/OS-Windows%2010-blue"> <img alt="AppVeyor badge" src="https://img.shields.io/badge/build-passing-brightgreen">
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="instagram" loading="lazy" width="28" height="28" />](https://github.com/vmDeshpande/) 
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" loading="lazy" width="28" height="28" />](https://instagram.com/feathered_beast_) 
+[<img src="https://cdn-icons.flaticon.com/png/512/4945/premium/4945973.png?token=exp=1643646471~hmac=4ad0a74aae1c2ee915ff405fd20bcd22" width="28" height="28" />](https://discord.gg/W9K9H862d6)
 
 
 Here are some my details:
