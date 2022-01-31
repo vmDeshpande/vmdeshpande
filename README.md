@@ -4,7 +4,7 @@
 
 Here are some my details:
 
-- 🌱 I’m currently working on a discord bot.
+- 🌱 I’m currently working on a discord bot. [Add my Discord bot](https://discord.com/api/oauth2/authorize?client_id=928701961946165308&permissions=8&scope=bot)
 - 💬 Ask me about anything.
 
 - 😄 Pronouns: he
