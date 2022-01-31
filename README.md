@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vmDeshpande/)
-![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-#EF2D5E?style=for-the-badge&logo=Instagram&logoColor=white)
 
 Here are some my details:
 
