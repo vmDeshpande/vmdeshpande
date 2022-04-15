@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I watch Anime.
 
-- 📫 [My Website](http://vedantdeshpande.freetzi.com/)
+- 📫 [My Website](https://vedantdeshpande15.web.app)
 
 ---
 
