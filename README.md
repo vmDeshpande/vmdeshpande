@@ -32,11 +32,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m currently learning as much Languages as i can.
 
-- :seedling: I’m currently working on a discord bot. [Add my Discord bot](https://discord.com/api/oauth2/authorize?client_id=928701961946165308&permissions=8&scope=bot)
+- :seedling: I’m currently a web developer, selling websites. [My business website](https://the-developers-121.web.app)
 
 - :zap: In my free time, I watch Anime.
 
-- 📫 [My Website](https://vedantdeshpande15.web.app)
+- 📫 [My Personal Website](https://vedantdeshpande15.web.app)
 
 ---
 
