@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmdeshpande&label=Profile%20views&color=0e75b6&style=flat" alt="vmdeshpande" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmdeshpande" alt="vmdeshpande" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmdeshpande&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="vmdeshpande" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vedantDeshpande"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vedantDeshpande" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmdeshpande&show_icons=true&locale=en&layout=compact" alt="vmdeshpande" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmdeshpande&show_icons=true&locale=en&layout=compact&theme=dark" alt="vmdeshpande" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmdeshpande&show_icons=true&locale=en" alt="vmdeshpande" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmdeshpande&show_icons=true&locale=en&theme=dark" alt="vmdeshpande" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmdeshpande&" alt="vmdeshpande" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmdeshpande&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="vmdeshpande" /></p>
