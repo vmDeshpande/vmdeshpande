@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmdeshpande&label=Profile%20views&color=0e75b6&style=flat" alt="vmdeshpande" /> </p>
 
-- 🔭 I’m currently working on **Multiple projects**
+- 🔭 I’m currently working on **AI Agent Workflow System**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **vedant.milnd.deshpande@gmail.com**
 
