@@ -10,7 +10,7 @@
 - 📫 How to reach me **vedant.milnd.deshpande@gmail.com**
 
 - 🌎 My website
-**https://vedantdevv.web.app**
+**[Portfolio](https://vmdeshpande.github.io/portfolio1/)**
 
 ## Connect with me:
 <p align="left">
