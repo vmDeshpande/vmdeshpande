@@ -168,6 +168,12 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ![Vedant's GitHub Stats](https://streak-stats.demolab.com?user=vmdeshpande&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
+### GitRoll
+
+<a href="https://gitroll.io/profile/unW55pQMfjZOBjjok95QsdIoA9Hp1" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/unW55pQMfjZOBjjok95QsdIoA9Hp1?theme=dark" height="300" alt="GitRoll Profile Badge"/>
+</a>
+
 </div>
 
 ---
