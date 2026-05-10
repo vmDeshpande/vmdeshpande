@@ -1,36 +1,272 @@
-<h1 align="center">Hi 👋, I'm Vedant Deshpande</h1>
-<h3 align="center">I am a Full Stack Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vmdeshpande&label=Profile%20views&color=0e75b6&style=flat" alt="vmdeshpande" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&multiline=true&width=600&height=100&lines=Vedant+Deshpande;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **[AI Agent Automation System](https://github.com/vmdeshpande/ai-agent-automation)**
+</div>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+<div align="center">
 
-- 📫 How to reach me **vedant.milnd.deshpande@gmail.com**
+### Full-Stack Developer | AI Automation Architect | Backend Engineer
 
-- 🌎 My website
-**[Portfolio](https://vmdeshpande.github.io/portfolio1/)**
+</div>
 
-## Connect with me:
-<p align="left">
-<a href="https://dev.to/vmdeshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vmdeshpande" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant-devv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-deshpande-549000250" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18194619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18194619" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vedant_d006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedant_d006" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedant_milind_d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant_milind_d1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vedant.milind.deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vedant.milind.deshpande" height="30" width="40" /></a>
-</p>
+<table align="center">
+<tr>
+<td>
 
-## Languages and Tools:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+```javascript
+const vedant = {
+  location: "🇮🇳 India",
+  focus: "🤖 AI Agents & Automation Workflows",
+  passion: "Building systems that scale and think",
+  coffee: "Essential ☕",
+  status: "Open to interesting collaborations 🤝"
+}
+````
 
-## GitHub Stats:
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=vmDeshpande&theme=dark&hide_border=true" alt="vmdeshpande" /></p>
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<table>
+<tr>
+<td align="center"><strong>Profile Views</strong></td>
+<td align="center"><strong>Followers</strong></td>
+<td align="center"><strong>Stars</strong></td>
+<td align="center"><strong>Contributions</strong></td>
+</tr>
+<tr>
+<td><img src="https://komarev.com/ghpvc/?username=vmDeshpande&color=0077B5&style=flat-square" alt="Profile Views" /></td>
+<td><img src="https://img.shields.io/github/followers/vmDeshpande?style=flat-square&color=0077B5" alt="Followers" /></td>
+<td><img src="https://img.shields.io/github/stars/vmDeshpande?style=flat-square&color=0077B5" alt="Stars" /></td>
+<td><img src="https://img.shields.io/badge/contributions-2000+-0077B5?style=flat-square" alt="Contributions" /></td>
+</tr>
+</table>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vmDeshpande&icon=3&color=0)](https://visitcount.itsvg.in)
+
+## About Me
+
+I'm a backend engineer obsessed with building intelligent systems that solve real problems. My sweet spot is creating scalable APIs, automating complex workflows, and designing systems that don't break at 3 AM.
+
+Currently architecting **AI agent frameworks** that let developers build autonomous workflows without pulling their hair out.
+
+<div align="center">
+
+**[🌐 Portfolio](https://vmdeshpande.github.io/portfolio1/) • [💼 LinkedIn](https://linkedin.com/in/vedant-devv) • [✉️ Email](mailto:vedant.milind.deshpande@gmail.com)**
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Featured Project
+
+## 🤖 AI Agent Automation Platform
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+### Build intelligent, modular AI agents that actually scale
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Core Features**
+
+🔄 Modular Agent Architecture  
+⏰ Advanced Scheduling System  
+🔧 Seamless Tool Integration  
+📊 Real-time Observability  
+🔐 Type-Safe with TypeScript  
+⚡ Production-Ready  
+
+</td>
+<td align="center" width="50%">
+
+**What You Get**
+
+✨ Complex autonomous workflows  
+📅 Cron + Event-driven execution  
+🛠️ Connect any API instantly  
+📈 Monitor agents in real-time  
+🎯 Full type safety guaranteed  
+🚀 Deploy & scale effortlessly  
+
+</td>
+</tr>
+</table>
+
+**Project Stats:**
+
+![GitHub Stars](https://img.shields.io/github/stars/vmDeshpande/ai-agent-automation?style=flat-square&color=FFD700&label=Stars)
+![GitHub Issues](https://img.shields.io/github/issues/vmDeshpande/ai-agent-automation?style=flat-square&label=Issues)
+![GitHub Forks](https://img.shields.io/github/forks/vmDeshpande/ai-agent-automation?style=flat-square&label=Forks)
+![GitHub Watchers](https://img.shields.io/github/watchers/vmDeshpande/ai-agent-automation?style=flat-square&label=Watchers)
+
+**Quick Links:**
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmDeshpande/ai-agent-automation)
+[![Docs](https://img.shields.io/badge/Documentation-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://vmdeshpande.github.io/ai-automation-platform-website/)
+[![Demo](https://img.shields.io/badge/Try%20It%20Now-4CAF50?style=for-the-badge&logo=rocket&logoColor=white)](https://vmdeshpande.github.io/ai-automation-platform-website/docs/quickstart/)
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages & Runtime
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Backend & Architecture
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
+### Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Frontend & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+### Contribution Streak
+
+![Vedant's GitHub Stats](https://streak-stats.demolab.com?user=vmdeshpande&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
+</div>
+
+---
+
+## Animated Contributions & Visualizations
+
+<div align="center">
+
+### 🐍 Contribution Snake Game
+
+*Watch the snake eat through my GitHub contributions! Refresh to see it slither.*
+
+![GitHub Contribution Snake](https://github.com/vmdeshpande/vmdeshpande/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## What I'm Currently Working On
+
+<div align="center">
+
+| Actively Building | Learning | Exploring |
+|:---:|:---:|:---:|
+| 🤖 AI Agent Automation | 📊 Advanced System Design | 🧠 LLM Optimization |
+| 🔧 Microservices Architecture | ⚡ Performance Tuning | 🔐 Security Patterns |
+| 📈 Scalable Backend Systems | 🌐 Distributed Architecture | 🤝 Open Source Impact |
+
+</div>
+
+---
+
+## Key Achievements
+
+<div align="center">
+
+```
+✅ 50+ Stars on AI Automation (Community Recognition)
+✅ 2000+ Total Contributions (Dedicated to Growth)
+```
+
+</div>
+
+---
+
+## Development Philosophy
+
+<div align="center">
+
+> **"Code is read far more often than it is written. Make it count."**
+
+**I believe in:**<br><br>
+ 🎯 **Simplicity** - Elegant solutions over complex ones<br>
+ 📚 **Documentation** - Code speaks, but docs explain<br>
+ 🤝 **Collaboration** - Great things happen together<br>
+ 🚀 **Shipping** - Done is better than perfect<br>
+ 🧪 **Quality** - Testing is not optional<br>
+
+</div>
+
+---
+
+## Let's Collaborate
+
+<div align="center">
+
+**I'm always excited about:**<br><br>
+ 🔗 Open-source contributions and collaborations<br>
+ 💬 Deep discussions on system design and architecture<br>
+ 🚀 Building innovative automation solutions<br>
+ 🎓 Sharing knowledge and mentoring developers<br>
+ 🤖 Exploring AI, ML, and intelligent automation<br>
+
+
+</div>
+
+---
+
+## Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## Thanks for reading
+
+<div align="center">
+
+```txt
+╔════════════════════════════════════════════════════╗
+║      Made with 💜 Coffee ☕ and Curiosity        ║
+║           github.com/vmDeshpande                 ║
+║        ⭐ Star if you find this useful!          ║
+╚════════════════════════════════════════════════════╝
+````
+
+**Last Updated: May 2026** | Actively building and learning 🚀
+
+</div>
