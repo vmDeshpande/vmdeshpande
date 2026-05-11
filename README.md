@@ -174,6 +174,9 @@ Currently architecting **AI agent frameworks** that let developers build autonom
   <img src="https://gitroll.io/api/badges/profiles/v1/unW55pQMfjZOBjjok95QsdIoA9Hp1?theme=dark" height="300" alt="GitRoll Profile Badge"/>
 </a>
 
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vmdeshpande&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
 
 ---
