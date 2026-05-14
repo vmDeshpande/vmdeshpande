@@ -166,7 +166,12 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ### Contribution Streak
 
-![Vedant's GitHub Stats](https://streak-stats.demolab.com?user=vmdeshpande&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vmdeshpande&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmdeshpande&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmdeshpande&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vmdeshpande&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vmdeshpande&theme=blue_green&utcOffset=8)
+![](https://streak-stats.demolab.com?user=vmdeshpande&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ### GitRoll
 
