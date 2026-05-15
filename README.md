@@ -109,6 +109,7 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ![GitHub Stars](https://img.shields.io/github/stars/vmDeshpande/ai-agent-automation?style=flat-square&color=FFD700&label=Stars)
 ![GitHub Issues](https://img.shields.io/github/issues/vmDeshpande/ai-agent-automation?style=flat-square&label=Issues)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/vmDeshpande/ai-agent-automation?style=flat-square&label=Pull+Request)
 ![GitHub Forks](https://img.shields.io/github/forks/vmDeshpande/ai-agent-automation?style=flat-square&label=Forks)
 ![GitHub Watchers](https://img.shields.io/github/watchers/vmDeshpande/ai-agent-automation?style=flat-square&label=Watchers)
 
