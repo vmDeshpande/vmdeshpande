@@ -174,11 +174,11 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vmdeshpande&theme=blue_green&utcOffset=8)
 ![](https://streak-stats.demolab.com?user=vmdeshpande&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
-### GitRoll
+<!-- ### GitRoll
 
 <a href="https://gitroll.io/profile/unW55pQMfjZOBjjok95QsdIoA9Hp1" target="_blank">
   <img src="https://gitroll.io/api/badges/profiles/v1/unW55pQMfjZOBjjok95QsdIoA9Hp1?theme=dark" height="300" alt="GitRoll Profile Badge"/>
-</a>
+</a> -->
 
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vmdeshpande&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -222,6 +222,6 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 ╚════════════════════════════════════════════════════╝
 ````
 
-**Last Updated: May 2026** | Actively building and learning 🚀
+**Last Updated: June 2026** | Actively building and learning 🚀
 
 </div>
