@@ -165,23 +165,17 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 <div align="center">
 
-### Contribution Streak
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vmdeshpande&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmdeshpande&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vmdeshpande&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmdeshpande&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vmdeshpande&theme=blue_green&utcOffset=8)
-![](https://streak-stats.demolab.com?user=vmdeshpande&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
+<img src="https://yourinsights.vercel.app/api/insight?username=vmDeshpande&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 
 <!-- ### GitRoll
 
 <a href="https://gitroll.io/profile/unW55pQMfjZOBjjok95QsdIoA9Hp1" target="_blank">
   <img src="https://gitroll.io/api/badges/profiles/v1/unW55pQMfjZOBjjok95QsdIoA9Hp1?theme=dark" height="300" alt="GitRoll Profile Badge"/>
-</a> -->
+</a> 
 
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vmdeshpande&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+-->
 
 </div>
 
