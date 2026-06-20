@@ -57,7 +57,7 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 <div align="center">
 
-**[🌐 Portfolio](https://vmdeshpande.github.io/portfolio1/) • [💼 LinkedIn](https://linkedin.com/in/vedant-devv) • [✉️ Email](mailto:vedant.milind.deshpande@gmail.com)**
+**[🌐 Portfolio (Old)](https://vmdeshpande.github.io/portfolio1/) • [🌐 Portfolio (New)](https://vmdeshpande.github.io/vedant-deshpande-portfolio/) • [💼 LinkedIn](https://linkedin.com/in/vedant-devv) • [✉️ Email](mailto:vedant.milind.deshpande@gmail.com)**
 
 </div>
 
