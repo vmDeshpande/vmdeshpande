@@ -123,64 +123,6 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-### Languages & Runtime
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Backend & Architecture
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://yourinsights.vercel.app/api/insight?username=vmDeshpande&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-
-<!-- ### GitRoll
-
-<a href="https://gitroll.io/profile/unW55pQMfjZOBjjok95QsdIoA9Hp1" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/unW55pQMfjZOBjjok95QsdIoA9Hp1?theme=dark" height="300" alt="GitRoll Profile Badge"/>
-</a> 
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vmdeshpande&theme=radical&no-frame=true&no-bg=true&margin-w=4)
--->
-
-</div>
-
----
-
 ## Animated Contributions & Visualizations
 
 <div align="center">
@@ -204,18 +146,8 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ---
 
-## Thanks for reading
-
 <div align="center">
 
-```txt
-╔════════════════════════════════════════════════════╗
-║      Made with 💜 Coffee ☕ and Curiosity        ║
-║           github.com/vmDeshpande                 ║
-║        ⭐ Star if you find this useful!          ║
-╚════════════════════════════════════════════════════╝
-````
-
-**Last Updated: June 2026** | Actively building and learning 🚀
+**Last Updated: July 2026** | Actively building and learning 🚀
 
 </div>
