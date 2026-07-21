@@ -63,8 +63,121 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ---
 
-## Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<div align="center">
+
+# ⭐ Featured Project
+
+## 🤖 AI Agent Automation Platform
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+### Build intelligent, modular AI agents that actually scale
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Core Features**
+
+🔄 Modular Agent Architecture  
+⏰ Advanced Scheduling System  
+🔧 Seamless Tool Integration  
+📊 Real-time Observability  
+🔐 Type-Safe with TypeScript  
+⚡ Production-Ready  
+
+</td>
+<td align="center" width="50%">
+
+**What You Get**
+
+✨ Complex autonomous workflows  
+📅 Cron + Event-driven execution  
+🛠️ Connect any API instantly  
+📈 Monitor agents in real-time  
+🎯 Full type safety guaranteed  
+🚀 Deploy & scale effortlessly  
+
+</td>
+</tr>
+</table>
+
+**Project Stats:**
+
+![GitHub Stars](https://img.shields.io/github/stars/vmDeshpande/ai-agent-automation?style=flat-square&color=FFD700&label=Stars)
+![GitHub Issues](https://img.shields.io/github/issues/vmDeshpande/ai-agent-automation?style=flat-square&label=Issues)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/vmDeshpande/ai-agent-automation?style=flat-square&label=Pull+Request)
+![GitHub Forks](https://img.shields.io/github/forks/vmDeshpande/ai-agent-automation?style=flat-square&label=Forks)
+![GitHub Watchers](https://img.shields.io/github/watchers/vmDeshpande/ai-agent-automation?style=flat-square&label=Watchers)
+
+**Quick Links:**
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmDeshpande/ai-agent-automation)
+[![Docs](https://img.shields.io/badge/Documentation-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://vmdeshpande.github.io/ai-automation-platform-website/)
+[![Demo](https://img.shields.io/badge/Try%20It%20Now-4CAF50?style=for-the-badge&logo=rocket&logoColor=white)](https://vmdeshpande.github.io/ai-automation-platform-website/docs/quickstart/)
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages & Runtime
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Backend & Architecture
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
+### Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Frontend & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://yourinsights.vercel.app/api/insight?username=vmDeshpande&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+
+<!-- ### GitRoll
+
+<a href="https://gitroll.io/profile/unW55pQMfjZOBjjok95QsdIoA9Hp1" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/unW55pQMfjZOBjjok95QsdIoA9Hp1?theme=dark" height="300" alt="GitRoll Profile Badge"/>
+</a> 
+
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vmdeshpande&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+-->
+
+</div>
 
 ---
 
@@ -91,8 +204,18 @@ Currently architecting **AI agent frameworks** that let developers build autonom
 
 ---
 
+## Thanks for reading
+
 <div align="center">
 
-**Last Updated: July 2026** | Actively building and learning 🚀
+```txt
+╔════════════════════════════════════════════════════╗
+║      Made with 💜 Coffee ☕ and Curiosity        ║
+║           github.com/vmDeshpande                 ║
+║        ⭐ Star if you find this useful!          ║
+╚════════════════════════════════════════════════════╝
+````
+
+**Last Updated: June 2026** | Actively building and learning 🚀
 
 </div>
